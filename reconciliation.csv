@@ -1,0 +1,5 @@
+Worker Name,Worker ID,Hours,Rate,Computed Billing,Invoice Amount,Difference,Status,Details
+Alice Smith,W001,8.0,22.00,176.00,173.50,2.50,discrepancy:critical,"Mismatch: computed billing 176.00 vs invoiced 173.50, difference 2.50"
+Alice Smith,W001,7.5,22.00,165.00,173.50,8.50,discrepancy:critical,"Mismatch: computed billing 165.00 vs invoiced 173.50, difference 8.50"
+Bob Jones,W002,7.5,20.00,150.00,165.00,15.00,discrepancy:critical,"Mismatch: computed billing 150.00 vs invoiced 165.00, difference 15.00"
+Bob Jones,W002,8.0,20.00,160.00,165.00,5.00,discrepancy:critical,"Mismatch: computed billing 160.00 vs invoiced 165.00, difference 5.00"
