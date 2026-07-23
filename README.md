@@ -58,3 +58,5 @@ python3 run_demo.py
 Dashboard: https://staffing-agency-timesheet-to-invoice-rec.vokrix.co
 Vercel: staffing-agency-timesheet-to-invoice-rec
 Railway: d04d80b9-b140-48c4-8138-76303009d115
+
+Billing: price_1TwMVL2c9uGCcgMShIHvuHsD
