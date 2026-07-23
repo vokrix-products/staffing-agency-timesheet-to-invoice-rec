@@ -1,5 +1,4 @@
 Staffing Agency Timesheet-to-Invoice Reconciliation Auto-Processor
-============================================================
 
 A backend pipeline that automatically reconciles client-signed timesheets,
 agency internal records, and rate agreements to produce discrepancy reports
@@ -54,3 +53,8 @@ python3 run_demo.py
 - `run_tests.py` – unit tests.
 - `config.py` – configuration stub (reserved for future settings).
 - `processor.py` – processor stub (reserved for future enrichment).
+# Staffing Agency Timesheet-to-Invoice Reconciliation Auto-Processor
+
+Dashboard: https://staffing-agency-timesheet-to-invoice-rec.vokrix.co
+Vercel: staffing-agency-timesheet-to-invoice-rec
+Railway: d04d80b9-b140-48c4-8138-76303009d115
